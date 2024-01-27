@@ -27,7 +27,7 @@ vector<int> accountNumbers;
 vector<pair<int, int>> balance;// Account number + Balance
 vector<pair<int,int>> ATMCardDetails; //Account  Number + Card Number
 vector<pair<int,int>> ATMPin; //Card Number + PIN
-vector<vector<string>> customerDetails;
+vector<vector<string>> customerDetails; // customerDetails
 
 int main()
 {
